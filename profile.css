@@ -1,0 +1,36 @@
+body {
+    box-sizing: border-box;
+    background-color: #d4e3ea;
+}
+
+#photo {
+    /* border: solid black 5px; */
+
+
+}
+
+#photo img {
+    height: 200px;
+    width: 200px;
+    border-radius: 90px;
+}
+
+#two {
+    height: 120px;
+    width: 300px;
+    padding-bottom: 22px;
+    font-size: medium;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#three {
+    background-color: #d4e3ea;
+
+
+}
+
+#four {
+    background-color: #d4e3ea;
+}
